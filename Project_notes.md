@@ -1,0 +1,1 @@
+Running the data_exploration, found out that the data had no missing values.
